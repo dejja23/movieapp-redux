@@ -1,0 +1,19 @@
+.grad {
+  background-color: #000000;
+  background-image: linear-gradient(147deg, #000000 0%, #2c3e50 74%);
+}
+.card-body {
+  color: white;
+  font-size: 24px;
+}
+.star {
+  color: #a71d31;
+}
+.see-more a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+.card {
+  margin: 30px;
+}
